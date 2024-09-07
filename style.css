@@ -7,10 +7,8 @@
 body{
     position: relative;
     background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg');
-    /* background-repeat: no-repeat; */
     background-size:cover;
     z-index: -1;
-    
 }
 
 .blackbox{
@@ -23,10 +21,8 @@ body{
 }
 
 .netflix-logo{
-    
     width:11rem;
     height: 3.5rem;
-    
 }
 
 .content-box{
@@ -35,12 +31,8 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
     margin-top:19rem;
     line-height: 4.2rem;
-
-
-
 }
 .content-box h1{
     font-size: 3.9rem;
@@ -54,7 +46,6 @@ body{
     font-size: 2rem;
 }
 
-
 .nav-section{
     padding:1rem;
     padding-left:17rem;
@@ -62,9 +53,7 @@ body{
     padding-right: 1.8rem;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    
-    
+    align-items: center;    
 }
 
 .signin, 
